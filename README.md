@@ -8,4 +8,4 @@ Bei meinem Programm kann man von 1 bis auf 1000 zählen. i ist definiert als 1. 
 - Das Programm ist kurz und bündig.
 
 ## Reflexion
-Ich habe gelernt, dass Programmieren in vielen Fällen sehr hilfreich sein kann. Heutzutage braucht man fast überall Pruogrammieresprachen. Es sit ein Vorteil wenn man eine Programmiersprache beherrscht.
+Ich habe gelernt, dass Programmieren in vielen Fällen sehr hilfreich sein kann. Heutzutage braucht man fast überall Programmieresprachen. Es sit ein Vorteil wenn man eine Programmiersprache beherrscht.
